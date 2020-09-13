@@ -1,0 +1,5 @@
+region = "us-east-1"
+public_subnets_cidr = ["10.0.1.0/24"]
+private_subnets_cidr = ["10.0.1.0/24"]
+access_key = ""
+secret_key = ""
